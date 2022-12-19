@@ -1,9 +1,10 @@
-9c2ec300b589316f7a6a59e456d1a694 *DESCRIPTION
-a30e27719705a7ff95948a1ae223b6c6 *NAMESPACE
+a44be974528f8f3bd759c24c974f5383 *DESCRIPTION
+5245dac945a79bbbf9c61230778c17f9 *NAMESPACE
+dfec29f0c06b90a8fdec2c80b3e1f38e *NEWS.md
 e1f80958f5285465c0f18731d63691a1 *R/Firm.R
 10d65b787bc0519e1e534551b422cb84 *R/PLdist.R
-15ac90324d8f5697945b40b2c103e1d7 *R/PLreg.R
-0abd540dc0e35c6507c0d4c4ad5335ec *R/PeruVotes.R
+1c188dac57b6d685a449093e987e3d10 *R/PLreg.R
+8bfcb8c2401084d275b039bbf3f65b12 *R/PeruVotes.R
 c9c78950a81868685fa127dd346f61ae *R/bodyfat_Aeolus.R
 5309f99377e17b0944ebe74c887002f4 *README.md
 562adc5e19c3cc36300aa56201f8d70f *data/Firm.rda
@@ -13,7 +14,7 @@ cad2c3fa9d9f5cccc7710f55ecc47cf6 *man/Firm.Rd
 94871f529c394c844e43b89855acd6a4 *man/PL.Rd
 ec59fe59a244b7da5a8be9f7b77f0249 *man/PLreg.Rd
 c5b1ab7ec9c0872368c64f90ffe380de *man/PLregcontrol.Rd
-cfc17c7876b2b59891d3ea7153fe9742 *man/PeruVotes.Rd
+f6ea314fc343e31f721d2569a71d4759 *man/PeruVotes.Rd
 900369207617473f9cd5e73569d43b8f *man/bodyfat_Aeolus.Rd
 313bc1ca07fd3d31b2cfee70a2b8e9b8 *man/envelope.Rd
 541ea74f5906ac9e61c5673b39a02a4b *man/extra.parameter.Rd
@@ -21,6 +22,7 @@ cfc17c7876b2b59891d3ea7153fe9742 *man/PeruVotes.Rd
 9a38be8b11833eae63963988ff61901d *man/methodsPLreg.Rd
 4dfe7ceb7a41d1fbb2ccc5b4150026b7 *man/plot.PLreg.Rd
 82edb7d5b38ae2abc54d1c3f11ea45dc *man/residuals.PLreg.Rd
+ad918ae908a2967f993a0e9a2490dca3 *man/sandwich.Rd
 f4fae6fe32e441cdda6e1da4a789c9d0 *tests/testthat.R
 0ce30b869a11686ad56176ab95bdfeb9 *tests/testthat/test-PLdist.R
 5d29501fb9c9e574417116b211ef78e6 *tests/testthat/test-PLreg.R
